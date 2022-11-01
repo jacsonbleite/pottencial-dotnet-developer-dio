@@ -1,0 +1,14 @@
+[
+    {
+        "Id": 1,
+        "Nome_Produto": "Meterial de construção",
+        "Preco": 75.99,
+        "DataVenda": "2022-10-31T14:09:08.2108677-04:00"
+    },
+    {
+        "Id": 2,
+        "Nome_Produto": "Meterial de elétrico",
+        "Preco": 55.72,
+        "DataVenda": "2022-10-31T14:09:08.2108677-04:00"
+    }
+]

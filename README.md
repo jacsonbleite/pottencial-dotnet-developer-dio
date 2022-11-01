@@ -6,6 +6,7 @@ O Pottencial .NET Developer é o bootcamp para profissionais que buscam aperfei�
 
 ## Cápitulos Já estudados estudados
 
-
+ - Preparese para a jornada (Módulo Introdutório) 
+ - Principios de Desenvolvimento de Softwares
  - Conhecendo a Plataforma .Net com C#
 

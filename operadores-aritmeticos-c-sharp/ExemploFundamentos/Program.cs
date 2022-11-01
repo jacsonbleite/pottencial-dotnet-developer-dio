@@ -9,14 +9,48 @@ calculadora.Subtrair(x,y);
 calculadora.Multiplicar(x,y);
 calculadora.Dividir(x,y);
 
+Console.WriteLine("----------------------------");
+
+calculadora.Somar(2,3);
+calculadora.Subtrair(5,4);
+calculadora.Multiplicar(2,2);
+calculadora.Dividir(10,5);
 
 Console.WriteLine("----------------------------");
 
-Caculadora calculadora2 = new Caculadora();
-calculadora2.Somar(2,3);
-calculadora2.Subtrair(5,4);
-calculadora2.Multiplicar(2,2);
-calculadora2.Dividir(10,5);
+calculadora.Potencia(3,2);
+
+Console.WriteLine("----------------------------");
+
+calculadora.Seno(30);
+calculadora.Coseno(30);
+calculadora.Tangente(30);
+
+Console.WriteLine("----------------------------");
+
+// Incremento e Decremento
+int numero = 10;
+Console.WriteLine($"{numero}");
+Console.WriteLine("Incremento o 10");
+
+// numero = numero + 1;
+// Console.WriteLine(numero);
+numero++;
+Console.WriteLine(numero);
+
+int numeroDecremento = 10;
+Console.WriteLine($"{numeroDecremento}");
+Console.WriteLine("Decrementando o 10");
+
+// numeroDecremento = numeroDecremento - 1;
+// Console.WriteLine(numeroDecremento);
+numeroDecremento--;
+Console.WriteLine(numeroDecremento);
+
+Console.WriteLine("----------------------------");
+
+//Raiz Quadrada
+calculadora.RaizQuadrada(16);
 
 
 
